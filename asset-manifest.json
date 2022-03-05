@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/webapp-animation/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/webapp-animation/static/js/main.42c5042b.chunk.js",
+    "main.js.map": "/webapp-animation/static/js/main.42c5042b.chunk.js.map",
+    "runtime-main.js": "/webapp-animation/static/js/runtime-main.a7484859.js",
+    "runtime-main.js.map": "/webapp-animation/static/js/runtime-main.a7484859.js.map",
+    "static/js/2.a798bf75.chunk.js": "/webapp-animation/static/js/2.a798bf75.chunk.js",
+    "static/js/2.a798bf75.chunk.js.map": "/webapp-animation/static/js/2.a798bf75.chunk.js.map",
+    "index.html": "/webapp-animation/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/webapp-animation/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.a798bf75.chunk.js.LICENSE.txt": "/webapp-animation/static/js/2.a798bf75.chunk.js.LICENSE.txt",
+    "static/media/app.3277baed.png": "/webapp-animation/static/media/app.3277baed.png",
+    "static/media/how.b88eba2a.png": "/webapp-animation/static/media/how.b88eba2a.png",
+    "static/media/map.8c3b62c3.png": "/webapp-animation/static/media/map.8c3b62c3.png",
+    "static/media/woman.2c1f8c4c.png": "/webapp-animation/static/media/woman.2c1f8c4c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7484859.js",
+    "static/js/2.a798bf75.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.42c5042b.chunk.js"
+  ]
+}
